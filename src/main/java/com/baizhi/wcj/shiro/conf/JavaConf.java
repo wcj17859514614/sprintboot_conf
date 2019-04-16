@@ -23,4 +23,9 @@ public class JavaConf {
         dataSource.setPassword(jdbcProperties.getPassword());
         return dataSource;
     }
+    
+    @Bean
+    public void getVoid(){
+        
+    }
 }
