@@ -16,3 +16,4 @@ public class JDBCProperties {
     private String password;
 
 }
+public void add(){}
